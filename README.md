@@ -5,9 +5,9 @@ DESCRIPTION:
 
 
 HOW TO RUN THE PROGRAM:
-1 - Open your terminal
-2 - Type in "make" (the main.c file will compile and produce the main executable)
-3 - Type in ./main followed by two numbers (ex: ./main 7 10)
+- Open your terminal
+- Type in "make" (the main.c file will compile and produce the main executable)
+- Type in ./main followed by two numbers (ex: ./main 7 10)
 
 
 Good luck!
